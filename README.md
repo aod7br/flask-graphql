@@ -1,3 +1,9 @@
+https://www.freecodecamp.org/news/why-graphql-is-the-future-of-apis-6a900fb0bc81/
+
+Graphql  uma linguagem que permite voce extrair dados de uma REST API, ideal se a API tem muitos endpoints
+
+
+
 # Flask-GraphQL
 
 [![Build Status](https://travis-ci.org/graphql-python/flask-graphql.svg?branch=master)](https://travis-ci.org/graphql-python/flask-graphql) [![Coverage Status](https://coveralls.io/repos/graphql-python/flask-graphql/badge.svg?branch=master&service=github)](https://coveralls.io/github/graphql-python/flask-graphql?branch=master) [![PyPI version](https://badge.fury.io/py/flask-graphql.svg)](https://badge.fury.io/py/flask-graphql)
